@@ -13,7 +13,7 @@ class Springboot03ApplicationTests {
 
     @Test
     void contextLoads() {
-
+System.out.print("test from google")
 
     }
 
